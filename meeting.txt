@@ -1,0 +1,8 @@
+Clarification list
+------------------
+
+1. ADF IR agent upgrade		-	Mail replied to Alisa scheduled on January			Postpond to January 
+
+2. Account Lock investigation	-	Mail sent to Pawan.. waiting for the update from him		Waiting for Pawan
+3. Prod IR CPU utiliztion	-	Alisa will discuss with Kousik					I will check with kousik next week
+4. Function app Prod		-	Investigation?? still ticket pending from my side		Dev and Tst. one. next week i will implement in SIT
